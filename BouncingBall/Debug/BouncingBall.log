@@ -1,0 +1,11 @@
+﻿Build started 6/10/2015 4:20:44 PM.
+     1>Project "C:\Users\Sarah\Documents\Visual Studio 2013\Projects\BouncingBall\BouncingBall\BouncingBall.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+     1>c:\users\sarah\documents\visual studio 2013\projects\bouncingball\bouncingball\main.cpp(2): fatal error C1083: Cannot open include file: 'glut.h': No such file or directory
+     1>Done Building Project "C:\Users\Sarah\Documents\Visual Studio 2013\Projects\BouncingBall\BouncingBall\BouncingBall.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:04.64
